@@ -48,6 +48,6 @@
   - 사장님 대시보드(매장, 메뉴, 쿠폰 관리)  
 - 기술 스택: React, TypeScript, Axios, Tailwind CSS  
 
-![qr-demo](https://github.com/hyun3138/BE)
+![qr-demo](https://github.com/hyun3138/BE.git)
 
 </details>
