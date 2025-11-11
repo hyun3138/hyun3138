@@ -22,7 +22,7 @@
 > Spring Boot + JPA + PostgreSQL 기반 전투 분석 플랫폼  
 > 개인 성장, 클래스 세팅, 공대 리포트를 분석하고 공유할 수 있는 서비스  
 
-- [🔗 Repository](https://github.com/LoArk-KDT/BE)  
+- [🔗 Repository](https://github.com/hyun3138/BE)  
 - 주요 기능: 회원가입(OCR 인증), 전투 데이터 저장 및 통계, 공대 리포트 생성  
 - 기술 스택: Spring Boot, JPA, PostgreSQL, AWS S3  
 
@@ -48,6 +48,6 @@
   - 사장님 대시보드(매장, 메뉴, 쿠폰 관리)  
 - 기술 스택: React, TypeScript, Axios, Tailwind CSS  
 
-![qr-demo](https://github.com/hyun3138/BE.git)
+![qr-demo](https://github.com/user/repo/blob/main/demo.gif)
 
 </details>
