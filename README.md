@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Hyun I'm studying to become a full-stack developer
+# 👋 Hi, I'm Hyun 
+I'm studying to become a full-stack developer
 
 - 💻 Backend Developer (Java & Spring Boot)
 - 🎓 Computer Engineering, Samyook University
